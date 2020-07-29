@@ -1,0 +1,12 @@
+h1 {
+	color: #00BCD4;
+    text-shadow: 2px 2px #fff, 5px 5px rgba(0, 188, 212, 0.4);
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	padding-bottom:20px;
+	padding-top:20px;
+	border-top:solid 2px #ffd700;
+	border-bottom:solid 2px #ffd700;
+}
